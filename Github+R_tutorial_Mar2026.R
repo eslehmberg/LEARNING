@@ -23,3 +23,4 @@ gitcreds::gitcreds_set()
 
 ### cloning to R
 # start a new project: File > New Project > Version Control > Git
+# this will open a window that asks for the URL of your repository ("repo"), whether you'd like to use version control (yes) and where you'd like to store it
