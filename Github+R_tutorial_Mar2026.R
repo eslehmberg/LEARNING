@@ -24,7 +24,7 @@ gitcreds::gitcreds_set()
 #### ON R: the LEARNING github to your local computer (https://github.com/eslehmberg/LEARNING) ####
 # start a new project: File > New Project > Version Control > Git
 # this will open a window that asks for the URL of your repository ("repo"), whether you'd like to use version control (yes) and where you'd like to store it
-
+# IMPORTANT: STORE IT IN YOUR GITHUB FOLDER
 
 #### using Mike's provided script ####
 # 1. open it in your project
