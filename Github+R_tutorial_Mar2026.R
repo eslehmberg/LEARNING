@@ -1,4 +1,4 @@
-### git with R TEST
+### git with R
 ### for much more in depth info/troubleshooting for github + R, go here: https://happygitwithr.com/
 
 
@@ -32,6 +32,7 @@ gitcreds::gitcreds_set()
 # 3. push that change
 # 4. pull all the other changes (you may have to do this more than once, depending on how fast people type)
 # 5. look at the history of changes (version control)
+
 #### general tips for version control ####
 # sometimes a good idea to check if changes have been made before you begin working on something
 # **ALWAYS** push changes before you stop working on something --> this ensures your collaborators aren't overwriting or doing the same work as you while you're in meatspace living your life
