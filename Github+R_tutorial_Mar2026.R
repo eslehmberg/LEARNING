@@ -1,4 +1,4 @@
-### git with R
+### git with R TEST
 ### for much more in depth info/troubleshooting for github + R, go here: https://happygitwithr.com/
 
 
